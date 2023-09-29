@@ -2,7 +2,7 @@
   <img src="assets/Jiji and I.jpg" alt="Devfolio" />
 </h2>
 
-<h1 align="center">Shaun Wellman Portfolio</h1>
+# [Shaun Wellman Portfolio](https://sadrianw.github.io/DevFolio/)
 
 This is my take on the **[DevFolio](https://github.com/AnilSeervi/DevFolio)** by **[Anil Seervi](https://github.com/AnilSeervi)**, kudos to him for the fantastic template. Learning is always an ongoing process and I felt that my first step into creating a portfolio would benifit from having a template steer the course intitially.
 
