@@ -20,10 +20,11 @@
     // background: url("/src/assets/[your-image].png");
     // background-position: center;
     // background-size: cover; 
-    background-image: url(../../assets/glowing-blue-circuit-board-uu6hwstp6zywxjbz.jpg);
+    background: url(../../assets/glowing-blue-circuit-board-uu6hwstp6zywxjbz.jpg);
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
+    background-color: rgba(0, 0, 0, 0.5);
 
   @include respond(tab-port) {
     justify-content: center;
